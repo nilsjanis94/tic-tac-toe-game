@@ -1,7 +1,6 @@
-# Aufgabe 4
-# Du hast ein 2 Dimensionales Spielfeld gebaut, auf dessen Felder du zugreifen kannst. Finde heraus, wie du das Zeichen deines aktuellen Spielers
-# auf die Felder der getätigten Eingabe setzen kannst und erweitere deine Funktion starte_spiel() mit der Zuweisung X auf die Eingabe des Spielers
-
+"""
+Konstante Variablen für das Tic-Tac-Toe-Spiel.
+"""
 BOARD_SIZE = 3
 PLAYER_X = 'X'
 PLAYER_O = 'O'
