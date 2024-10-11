@@ -1,1 +1,1 @@
-small tic-tac-toe game as python practise
+small tic-tac-toe game as python practice
